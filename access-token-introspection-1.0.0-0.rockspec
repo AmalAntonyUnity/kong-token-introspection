@@ -1,7 +1,7 @@
 package = "access-token-introspection"
 version = "1.0.0-0"
 source = {
-   url = "git+https://github.com/VentaApps/kong-token-introspection.git"
+   url = "https://github.com/AmalAntonyUnity/kong-token-introspection.git"
 }
 description = {
    summary = "0 JWT access-token, added to request header.",
